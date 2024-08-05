@@ -19,10 +19,10 @@ public class Service {
 	}
 	
 	public int sub(int x,int y) {
-		int c=x-y;
-		return c;
+ 
+		return  x-y;
 	}
-	
+ 
 	 
 
 }
