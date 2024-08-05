@@ -18,6 +18,11 @@ public class Service {
 		return x/y;
 	}
 	
+	public int sub(int x,int y) {
+		int c=x-y;
+		return c;
+	}
+	
 	 
 
 }
